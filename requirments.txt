@@ -1,0 +1,6 @@
+music21
+numpy
+tensorflow==2.16.1
+keras
+matplotlib
+pickle

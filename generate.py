@@ -135,5 +135,5 @@ def generate(filename='test_output.mid', lenght=500):
     
     
 if __name__ == '__main__':
-    generate(filename='output.mid', lenght=200)
+    generate(filename='output/output.wav', lenght=200)
     

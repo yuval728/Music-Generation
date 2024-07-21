@@ -7,7 +7,7 @@ This project aims to explore the field of music generation using MIDI files. MID
 - MIDI file parsing: The project includes a module for parsing MIDI files and extracting musical information such as notes, chords, and tempo.
 - Data preprocessing: The MIDI data is preprocessed to create a suitable input format for the machine learning models.
 - Machine learning models: Machine learning models, such as recurrent neural networks (RNNs) are implemented to generate new musical compositions.
-- User interface: A user-friendly interface is provided to interact with the music generation system and explore the generated compositions.
+<!-- - User interface: A user-friendly interface is provided to interact with the music generation system and explore the generated compositions. -->
 
 ## Getting Started
 
